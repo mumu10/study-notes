@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "navigator",
+        "uml"
+    ],
+
+    "pluginsConfig": {
+        "uml": {
+            "charset": "utf-8",
+            "format": "png"
+        }
+    }
+}
